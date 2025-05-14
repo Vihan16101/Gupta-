@@ -32,7 +32,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ RAJ XD THAKUR💔🥀
 
-🙈bot andmin owner facebook id link🙈➪ www.facebook.com/priyanshu.rajput.official 💞🕊️
+🙈bot andmin owner facebook id link🙈➪ www.facebook.com/profile.php?id=61574885940483 💞🕊️
 
 👋For Any Kind Of Help Contact On Telegram  Username 👉 @Priyanshrajput😇
 
